@@ -6,6 +6,7 @@
    <UUID>49ec4b78-7cfc-4f1b-9662-f499ac787060</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/huynguyen/Katalon Studio/Very Short Test/Very Short Test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
